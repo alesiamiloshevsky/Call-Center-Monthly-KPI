@@ -1,4 +1,4 @@
-# 📞 Call-Center-Monthly-KPI
+# Call-Center-Monthly-KPI
 
 ## 📚 About The Data
 
@@ -17,18 +17,18 @@ The [Call-Center-Monthly-KPI](https://public.tableau.com/app/profile/alesia.milo
 
 <img width="1916" height="1160" alt="image" src="https://github.com/user-attachments/assets/c2f969da-d929-4c78-bdb1-7be1f7613484" />
 
-## 🔍 Key Insights
+## Key Insights
 - Mondays show the highest call volume, with Friday being the lowest.
 - Overall monthly resolution rate is about 70%, with variation across employees.
 - Most customers give high satisfaction ratings, but the occasional low scores point to areas where service can improve.
 - A few agents consistently stand out with faster responses and higher resolution rates compared to others.
 
-## 💡 Recommendations
+## Recommendations
 - Reduce wait times by adjusting staffing on high-volume days (e.g., Mondays).
 - Provide additional training for agents with lower resolution rates.
 - Introduce quality checks and offer additional support where needed to improve customer satisfaction.
 - Reward top-performing agents to keep morale high and encourage others to follow their example.
 
-## 🛠 Tools Used
+## Tools Used
 - Tableau – Data visualization and dashboard creation
 - Kaggle – Dataset source
